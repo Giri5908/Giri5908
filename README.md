@@ -1,93 +1,25 @@
-# 👋 Hi, I'm a Python Full Stack Developer!
-
-🚀 Passionate about building scalable web applications and solving real-world problems through code.
-
-- 💻 Python Full Stack Developer
-- 🌱 Currently learning and exploring new technologies
-- 🔭 Interested in Web Development, Backend Development & APIs
-- 🎯 Goal: Build innovative and impactful applications
-- ⚡ Love coding, problem-solving, and learning new things
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,html,css" />
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,aws" />
-</p>
-
----
-
-## 📊 GitHub Statistics
+ <h1 align="center">Giri5908</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <b>Python Full Stack Developer · Backend Development · Web Development</b>
 </p>
-
----
-
-## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/🏆_16-CERTIFICATES-008577?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/14-COURSES-2457D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2-DOMAIN_PROGRAMS-873DE8?style=for-the-badge" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,react,mysql,git,github" />
 </p>
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  <i>Building modern web applications with Python and Full Stack technologies.</i>
 </p>
 
----
-
-### 💡 Developer Quote
-
-"First, solve the problem. Then, write the code."
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
+<p align="center">
+  <a href="https://github.com/Giri5908">
+    <img src="https://img.shields.io/badge/GitHub-Giri5908-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
