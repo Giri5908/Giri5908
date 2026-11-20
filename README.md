@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_16-CERTIFICATES-008577?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/14-COURSES-2457D6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2-DOMAIN_PROGRAMS-873DE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_CERTIFICATES-008577?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-COURSES-2457D6?style=for-the-badge" />
 </p>
 
 <p align="center">
