@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Giriprasad5908">
+  <a href="https://github.com/Giri5908">
     <img src="https://img.shields.io/badge/GitHub-Giri5908-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
